@@ -1,0 +1,41 @@
+@charset "utf-8";
+{
+	margin:0;
+	padding:0;
+}
+.clear{
+	clear: both;
+}
+.box{
+	width: 100px;
+	border: 1px solid black;
+	float: left;
+	margin:10px;
+	background-color: #eee;
+	font-size: 36px;
+	text-align: center;
+	line-height: 36px;
+	padding: 5px 0;
+}
+#box1{
+	margin-left: 50px;
+}
+input{
+	border: 1px solid #666;
+}
+#msg{
+	border: 1px solid #069;
+	background-color: #FF0;
+	width: 460px;
+	height: 50px;
+	margin:10px 0;
+}
+#btnStop1{
+	margin-left: 35px;
+}
+#btnStop2{
+	margin-left: 75px;
+}
+#btnStop3{
+	margin-left: 75px;
+}
